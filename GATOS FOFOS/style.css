@@ -1,0 +1,17 @@
+.cabecalho{
+    background: color #3a4c9b; 
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+}
+.cabecalho-imagem{
+width: 50%;
+
+}
+
+.cabecalho-lista-de-itens{
+display: inline-block;
+
+margin: 0 4px;
+}
+
